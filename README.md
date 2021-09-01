@@ -6,7 +6,7 @@
 
 <!-- REPO_URL -->
 
-<!-- Try it in the [Svelte REPL](). -->
+Try it in the [Svelte REPL](https://svelte.dev/repl/f47568d489c34e8892da08273368744e).
 
 ---
 
