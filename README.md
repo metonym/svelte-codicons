@@ -4,6 +4,8 @@
 
 > [VS Code Codicons](https://github.com/microsoft/vscode-codicons) as Svelte components.
 
+This library uses [svelvg](https://github.com/metonym/svelvg) to convert SVG files from the `@vscode/codicons` NPM package into Svelte components.
+
 <!-- REPO_URL -->
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/f47568d489c34e8892da08273368744e).
