@@ -13,7 +13,7 @@
     "predeploy": "rollup -c",
     "deploy": "gh-pages -d dist",
     "prepack": "svelvg glob=@vscode/codicons/src/icons iconIndex",
-    "test": "svelte-check --workspace=test/*"
+    "test": "svelte-check --workspace test"
   },
   "devDependencies": {
     "@vscode/codicons": "^0.0.21",
