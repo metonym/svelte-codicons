@@ -1,6 +1,6 @@
 # Icon Index
 
-> 374 total icons
+> 376 total icons
 
 ## Icons
 
@@ -143,6 +143,7 @@
 - FoldUp
 - Fold
 - FolderActive
+- FolderLibrary
 - FolderOpened
 - Folder
 - Gear
@@ -275,6 +276,7 @@
 - RunAbove
 - RunAll
 - RunBelow
+- RunErrors
 - SaveAll
 - SaveAs
 - Save

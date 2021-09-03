@@ -16,7 +16,7 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "@vscode/codicons": "^0.0.21",
+    "@vscode/codicons": "^0.0.22",
     "gh-pages": "^3.2.3",
     "rollup": "^2.56.3",
     "svelte": "^3.42.4",
