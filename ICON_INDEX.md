@@ -1,6 +1,6 @@
 # Icon Index
 
-> 376 total icons
+> 383 total icons
 
 ## Icons
 
@@ -19,12 +19,15 @@
 - ArrowSwap
 - ArrowUp
 - Azure
+- BeakerStop
 - Beaker
 - BellDot
 - Bell
 - Bold
 - Book
 - Bookmark
+- BracketDot
+- BracketError
 - Briefcase
 - Broadcast
 - Browser
@@ -84,6 +87,7 @@
 - DebugBreakpointLog
 - DebugBreakpointUnsupported
 - DebugConsole
+- DebugContinueSmall
 - DebugContinue
 - DebugCoverage
 - DebugDisconnect
@@ -165,6 +169,8 @@
 - GoToFile
 - Grabber
 - GraphLeft
+- GraphLine
+- GraphScatter
 - Graph
 - Gripper
 - GroupByRefType
@@ -233,6 +239,7 @@
 - Pass
 - PersonAdd
 - Person
+- PieChart
 - Pin
 - PinnedDirty
 - Pinned
