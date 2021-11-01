@@ -28,6 +28,12 @@ yarn add -D svelte-codicons
 npm i -D svelte-codicons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-codicons
+```
+
 ## Usage
 
 ### Basic
