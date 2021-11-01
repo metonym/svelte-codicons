@@ -56,7 +56,7 @@ Use the direct import for faster compiling during development.
 
 **Note:** even if using base imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
 
-```html
+```svelte no-eval
 <script>
   import Add from "svelte-codicons/lib/Add.svelte";
 </script>
