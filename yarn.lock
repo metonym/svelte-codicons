@@ -99,10 +99,10 @@
   dependencies:
     "@types/node" "*"
 
-"@vscode/codicons@^0.0.25":
-  version "0.0.25"
-  resolved "https://registry.yarnpkg.com/@vscode/codicons/-/codicons-0.0.25.tgz#4ebc3e2c9e707ac46aea0becceda79f7738c647c"
-  integrity sha512-uqPhTdADjwoCh5Ufbv0M6TZiiP2mqbfJVB4grhVx1k+YeP03LDMOHBWPsNwGKn4/0S5Mq9o1w1GeftvR031Gzg==
+"@vscode/codicons@^0.0.26":
+  version "0.0.26"
+  resolved "https://registry.yarnpkg.com/@vscode/codicons/-/codicons-0.0.26.tgz#affdbc4499d3bd0db1156e4c9d323f885d299e03"
+  integrity sha512-GrYFJPbZ+hRM3NUVdAIpDepWkYCizVb13a6pJDAhckElDvaf4UCmNpuBS4MSydXNK63Ccts0XpvJ6JOW+/aU1g==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -921,10 +921,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^2.58.3:
-  version "2.58.3"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.58.3.tgz#71a08138d9515fb65043b6a18618b2ed9ac8d239"
-  integrity sha512-ei27MSw1KhRur4p87Q0/Va2NAYqMXOX++FNEumMBcdreIRLURKy+cE2wcDJKBn0nfmhP2ZGrJkP1XPO+G8FJQw==
+rollup@^2.59.0:
+  version "2.59.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.59.0.tgz#108c61b0fa0a37ebc8d1f164f281622056f0db59"
+  integrity sha512-l7s90JQhCQ6JyZjKgo7Lq1dKh2RxatOM+Jr6a9F7WbS9WgKbocyUSeLmZl8evAse7y96Ae98L2k1cBOwWD8nHw==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -1082,10 +1082,10 @@ svelte@^3.42.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.43.2.tgz#217fc6059f52afa281f39200b6253ac1b83812b4"
   integrity sha512-Lj+TJfSeod8UGnoG2opysdlCy4MCck/hHQsZwtNPXdYTwLTz+WC37QwewPhZtd+h3dpfps4h9QzFxWGVI4tzQw==
 
-svelte@^3.44.0:
-  version "3.44.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.0.tgz#e6176cb3ad93846ddb4140e93f43098136b23f3b"
-  integrity sha512-zWACSJBSncGiDvFfYOMFGNV5zDLOlyhftmO5yOZ0lEtQMptpElaRtl39MWz1+lYCpwUq4F3Q2lTzI9TrTL+eMA==
+svelte@^3.44.1:
+  version "3.44.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.1.tgz#5cc772a8340f4519a4ecd1ac1a842325466b1a63"
+  integrity sha512-4DrCEJoBvdR689efHNSxIQn2pnFwB7E7j2yLEJtHE/P8hxwZWIphCtJ8are7bjl/iVMlcEf5uh5pJ68IwR09vQ==
 
 svelvg@^0.7.0:
   version "0.7.0"

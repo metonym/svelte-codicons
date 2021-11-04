@@ -1,6 +1,6 @@
 # Icon Index
 
-> 383 total icons
+> 386 total icons
 
 ## Icons
 
@@ -18,6 +18,7 @@
 - ArrowSmallUp
 - ArrowSwap
 - ArrowUp
+- AzureDevops
 - Azure
 - BeakerStop
 - Beaker
@@ -208,6 +209,7 @@
 - LiveShare
 - Loading
 - Location
+- LockSmall
 - Lock
 - Magnet
 - MailRead
@@ -368,6 +370,7 @@
 - Unmute
 - Unverified
 - VariableGroup
+- VerifiedFilled
 - Verified
 - Versions
 - VmActive
