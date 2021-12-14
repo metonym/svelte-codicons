@@ -99,10 +99,10 @@
   dependencies:
     "@types/node" "*"
 
-"@vscode/codicons@^0.0.26":
-  version "0.0.26"
-  resolved "https://registry.yarnpkg.com/@vscode/codicons/-/codicons-0.0.26.tgz#affdbc4499d3bd0db1156e4c9d323f885d299e03"
-  integrity sha512-GrYFJPbZ+hRM3NUVdAIpDepWkYCizVb13a6pJDAhckElDvaf4UCmNpuBS4MSydXNK63Ccts0XpvJ6JOW+/aU1g==
+"@vscode/codicons@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@vscode/codicons/-/codicons-0.0.27.tgz#3b842cbcfb478e1c9e1dc6efbbdedd059cc3e567"
+  integrity sha512-NpLkfzPfEOO6s2HH+ISITlaXKYB2XeoYZQY2IV39EaJV3NIBygiLqybHrVtKbaDFfeXyP8McmvvnbWd6YykpGg==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -921,10 +921,10 @@ rollup@^2.36.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^2.59.0:
-  version "2.59.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.59.0.tgz#108c61b0fa0a37ebc8d1f164f281622056f0db59"
-  integrity sha512-l7s90JQhCQ6JyZjKgo7Lq1dKh2RxatOM+Jr6a9F7WbS9WgKbocyUSeLmZl8evAse7y96Ae98L2k1cBOwWD8nHw==
+rollup@^2.61.1:
+  version "2.61.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.61.1.tgz#1a5491f84543cf9e4caf6c61222d9a3f8f2ba454"
+  integrity sha512-BbTXlEvB8d+XFbK/7E5doIcRtxWPRiqr0eb5vQ0+2paMM04Ye4PZY5nHOQef2ix24l/L0SpLd5hwcH15QHPdvA==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -1030,10 +1030,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^2.2.8:
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.8.tgz#776befcfbfaad93f38642724619a400846a04923"
-  integrity sha512-y8BmSf3v+jOoVwKY0K3wAiIt3hupLiUS4HYqXSZPXJZrChKddp+N8fyNeClsDChLt2sLUo6sOAhlnok/RJ+iIw==
+svelte-check@^2.2.10:
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.10.tgz#ca2e4fde2d077e703792d8301a643c36375f646c"
+  integrity sha512-UVLd/N7hUIG2v6dytofsw8MxYn2iS2hpNSglsGz9Z9b8ZfbJ5jayl4Mm1SXhNwiFs5aklG90zSBJtd7NTK8dTg==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
@@ -1057,10 +1057,10 @@ svelte-preprocess@^4.0.0:
     sorcery "^0.10.0"
     strip-indent "^3.0.0"
 
-svelte-readme@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.6.0.tgz#8ebd8be881eebe911107fe5deaa2fa4048d42a14"
-  integrity sha512-VPaILfoxGCwPfaJN9u2qgQrHN/bI6N8d9OVrCtLpTVtuPs9/ITlr7GYZCwhg3WDJOgQz4IDf0acO39anV3pn9A==
+svelte-readme@^3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.6.1.tgz#31afefd9664590f08695ed9f4fed2918bd168acd"
+  integrity sha512-HIxsMTUOWdDQLE0GQa7vlUvO5TI9G+Uq6Du8fghxaoNKhBrdjzvs9G3fJ8sUh50g+oSqM/QmUbCCJC7LCrTd3w==
   dependencies:
     "@rollup/plugin-node-resolve" "^11.1.0"
     "@rollup/plugin-virtual" "^2.0.3"
@@ -1077,22 +1077,17 @@ svelte-readme@^3.6.0:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.42.4:
-  version "3.43.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.43.2.tgz#217fc6059f52afa281f39200b6253ac1b83812b4"
-  integrity sha512-Lj+TJfSeod8UGnoG2opysdlCy4MCck/hHQsZwtNPXdYTwLTz+WC37QwewPhZtd+h3dpfps4h9QzFxWGVI4tzQw==
+svelte@^3.44.2, svelte@^3.44.3:
+  version "3.44.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.3.tgz#795b1ced6ed3da44969099e5061b850c93c95e9a"
+  integrity sha512-aGgrNCip5PQFNfq9e9tmm7EYxWLVHoFsEsmKrtOeRD8dmoGDdyTQ+21xd7qgFd8MNdKGSYvg7F9dr+Tc0yDymg==
 
-svelte@^3.44.1:
-  version "3.44.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.1.tgz#5cc772a8340f4519a4ecd1ac1a842325466b1a63"
-  integrity sha512-4DrCEJoBvdR689efHNSxIQn2pnFwB7E7j2yLEJtHE/P8hxwZWIphCtJ8are7bjl/iVMlcEf5uh5pJ68IwR09vQ==
-
-svelvg@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.7.0.tgz#f81b34631f2b66f225e5d69ead13aa086234c66e"
-  integrity sha512-XsgeFI7O8Y63QVimrnRTUOIOwW61Y/o4Byae1Wey4sRoIznkBmVsqgngAoprmT5WXqr8xqw8h8vcyVaX/Q2QkQ==
+svelvg@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.8.1.tgz#c9497277b8ee30f6ff33a4e4506f1168d9ab4497"
+  integrity sha512-jpO6SfU4VtPTA7M0BkzznRcR4ig7eF0yKBSOnMPiKKGSLTDLhTvfPk5ZA+aN6LQ58a8K3oCnhWZ3BzK9dmfp6Q==
   dependencies:
-    svelte "^3.42.4"
+    svelte "^3.44.2"
     tiny-glob "^0.2.9"
 
 terser@^5.0.0:

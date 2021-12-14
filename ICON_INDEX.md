@@ -1,6 +1,6 @@
 # Icon Index
 
-> 386 total icons
+> 388 total icons
 
 ## Icons
 
@@ -195,6 +195,7 @@
 - LayersActive
 - LayersDot
 - Layers
+- Layout
 - Library
 - LightbulbAutofix
 - Lightbulb
@@ -227,6 +228,7 @@
 - Mute
 - NewFile
 - NewFolder
+- Newline
 - NoNewline
 - Note
 - NotebookTemplate
