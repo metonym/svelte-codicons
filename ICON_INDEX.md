@@ -1,6 +1,6 @@
 # Icon Index
 
-> 388 total icons
+> 401 total icons
 
 ## Icons
 
@@ -195,6 +195,18 @@
 - LayersActive
 - LayersDot
 - Layers
+- LayoutActivitybarLeft
+- LayoutActivitybarRight
+- LayoutCentered
+- LayoutMenubar
+- LayoutPanelCenter
+- LayoutPanelJustify
+- LayoutPanelLeft
+- LayoutPanelRight
+- LayoutPanel
+- LayoutSidebarLeft
+- LayoutSidebarRight
+- LayoutStatusbar
 - Layout
 - Library
 - LightbulbAutofix
@@ -342,6 +354,7 @@
 - Sync
 - Table
 - Tag
+- Target
 - Tasklist
 - Telescope
 - TerminalBash
