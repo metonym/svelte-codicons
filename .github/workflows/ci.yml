@@ -18,7 +18,7 @@ jobs:
           path: "**/node_modules"
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
 
-      - name: Build library and validate TypeScript definitions
+      - name: Build and test library
         run: |
           yarn
           yarn prepack
