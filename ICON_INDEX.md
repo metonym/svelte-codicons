@@ -1,6 +1,6 @@
 # Icon Index
 
-> 401 total icons
+> 408 total icons
 
 ## Icons
 
@@ -9,6 +9,10 @@
 - Add
 - Archive
 - ArrowBoth
+- ArrowCircleDown
+- ArrowCircleLeft
+- ArrowCircleRight
+- ArrowCircleUp
 - ArrowDown
 - ArrowLeft
 - ArrowRight
@@ -123,6 +127,7 @@
 - EditorLayout
 - Ellipsis
 - EmptyWindow
+- ErrorSmall
 - Error
 - Exclude
 - ExpandAll
@@ -181,6 +186,7 @@
 - HorizontalRule
 - Hubot
 - Inbox
+- Indent
 - Info
 - Inspect
 - IssueDraft
@@ -272,6 +278,7 @@
 - RadioTower
 - Reactions
 - RecordKeys
+- RecordSmall
 - Record
 - Redo
 - References
