@@ -6,6 +6,6 @@
 <Add />
 <Calendar />
 <Edit />
-<Window width="30" />
+<Window width="30" fill="red" />
 <GraphLine />
 <Newline />
