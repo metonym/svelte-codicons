@@ -1,6 +1,6 @@
 # Icon Index
 
-> 408 total icons
+> 412 total icons
 
 ## Icons
 
@@ -28,6 +28,7 @@
 - Beaker
 - BellDot
 - Bell
+- Blank
 - Bold
 - Book
 - Bookmark
@@ -208,9 +209,12 @@
 - LayoutPanelCenter
 - LayoutPanelJustify
 - LayoutPanelLeft
+- LayoutPanelOff
 - LayoutPanelRight
 - LayoutPanel
+- LayoutSidebarLeftOff
 - LayoutSidebarLeft
+- LayoutSidebarRightOff
 - LayoutSidebarRight
 - LayoutStatusbar
 - Layout
