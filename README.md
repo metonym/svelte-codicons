@@ -16,22 +16,16 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/f47568d489c34e8892da08273368
 
 ## Installation
 
-**Yarn**
-
 ```bash
+# Yarn
 yarn add -D svelte-codicons
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-codicons
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-codicons
+
 ```
 
 ## Usage
