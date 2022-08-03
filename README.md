@@ -4,7 +4,7 @@
 
 > [VS Code Codicons](https://github.com/microsoft/vscode-codicons) as Svelte components.
 
-This library uses [svelvg](https://github.com/metonym/svelvg) to convert SVG files from the `@vscode/codicons` NPM package into Svelte components.
+This zero-dependency library uses [svelvg](https://github.com/metonym/svelvg) to convert SVG files from the [@vscode/codicons](https://www.npmjs.com/package/@vscode/codicons) into Svelte components.
 
 <!-- REPO_URL -->
 
@@ -47,8 +47,6 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 ### Direct import
 
 Use the direct import for faster compiling during development.
-
-**Note:** even if using base imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
 
 ```svelte no-eval
 <script>
