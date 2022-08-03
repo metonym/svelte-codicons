@@ -7,11 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.9.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.9.0) - 2022-06-13
 
-- Upgrade `@vscode/codicons` to version `0.0.31` (net +4 icons)
+- Upgrade `@vscode/codicons` to v0.0.31 (net +4 icons)
 
 ## [0.8.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.8.0) - 2022-05-10
 
-- Upgrade `@vscode/codicons` to version `0.0.30` (net 0 icons, 2 icons modified)
+- Upgrade `@vscode/codicons` to v0.0.30 (net 0 icons, 2 icons modified)
 
 ## [0.7.1](https://github.com/metonym/svelte-codicons/releases/tag/v0.7.1) - 2022-04-09
 
@@ -19,19 +19,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.7.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.7.0) - 2022-03-12
 
-- Upgrade `@vscode/codicons` to version `0.0.29` (net +7 icons)
+- Upgrade `@vscode/codicons` to v0.0.29 (net +7 icons)
 
 ## [0.6.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.6.0) - 2022-02-14
 
-- Upgrade `@vscode/codicons` to version `0.0.28` (net +13 icons)
+- Upgrade `@vscode/codicons` to v0.0.28 (net +13 icons)
 
 ## [0.5.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.5.0) - 2021-12-14
 
-- Upgrade `@vscode/codicons` to version `0.0.27` (net +2 icons)
+- Upgrade `@vscode/codicons` to v0.0.27 (net +2 icons)
 
 ## [0.4.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.4.0) - 2021-11-04
 
-- Upgrade `@vscode/codicons` to version `0.0.26` (net +3 icons)
+- Upgrade `@vscode/codicons` to v0.0.26 (net +3 icons)
 
 ## [0.3.1](https://github.com/metonym/svelte-codicons/releases/tag/v0.3.1) - 2021-10-14
 
@@ -39,11 +39,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.3.0) - 2021-10-04
 
-- Upgrade `@vscode/codicons` to version `0.0.25` (net +7 icons)
+- Upgrade `@vscode/codicons` to v0.0.25 (net +7 icons)
 
 ## [0.2.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.2.0) - 2021-09-02
 
-- Upgrade `@vscode/codicons` to version `0.0.22` (net +2 icons)
+- Upgrade `@vscode/codicons` to v0.0.22 (net +2 icons)
 
 ## [0.1.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.1.0) - 2021-08-31
 
