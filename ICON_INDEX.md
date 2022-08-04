@@ -1,6 +1,6 @@
 # Icon Index
 
-> 412 total icons
+> 421 total icons
 
 ## Icons
 
@@ -27,6 +27,8 @@
 - BeakerStop
 - Beaker
 - BellDot
+- BellSlashDot
+- BellSlash
 - Bell
 - Blank
 - Bold
@@ -58,6 +60,8 @@
 - CircleLargeOutline
 - CircleOutline
 - CircleSlash
+- CircleSmallFilled
+- CircleSmall
 - CircuitBoard
 - ClearAll
 - Clippy
@@ -71,6 +75,7 @@
 - ColorMode
 - Combine
 - CommentDiscussion
+- CommentUnresolved
 - Comment
 - CompassActive
 - CompassDot
@@ -104,7 +109,6 @@
 - DebugRestart
 - DebugReverseContinue
 - DebugStackframeActive
-- DebugStackframeDot
 - DebugStackframe
 - DebugStart
 - DebugStepBack
@@ -167,6 +171,8 @@
 - GitPullRequestClosed
 - GitPullRequestCreate
 - GitPullRequestDraft
+- GitPullRequestGoToChanges
+- GitPullRequestNewChanges
 - GitPullRequest
 - GithubAction
 - GithubAlt
@@ -181,6 +187,7 @@
 - Graph
 - Gripper
 - GroupByRefType
+- HeartFilled
 - Heart
 - History
 - Home
@@ -237,6 +244,8 @@
 - Magnet
 - MailRead
 - Mail
+- MapFilled
+- Map
 - Markdown
 - Megaphone
 - Mention
