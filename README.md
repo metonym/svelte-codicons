@@ -69,9 +69,23 @@ Use the direct import for faster compiling during development.
 {/each}
 ```
 
-## TypeScript
+### Custom size
 
-Svelte version 3.31 or greater is required to use this library with TypeScript.
+`$$restProps` are forwarded to the `svg` element.
+
+Use the `width` and `height` attributes to customize the icon size. The default is 16px.
+
+```svelte
+<Add width={36} height={36} />
+```
+
+### Custom color
+
+Use the `fill` attribute to specify a custom color.
+
+```svelte
+<Add fill="red" />
+```
 
 ## [Changelog](CHANGELOG.md)
 
