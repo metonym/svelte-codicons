@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`Library > has exports 1`] = `
+exports[`Library > has exports 2`] = `
 [
   "Account",
   "ActivateBreakpoints",
@@ -55,11 +55,11 @@ exports[`Library > has exports 1`] = `
   "ChromeRestore",
   "CircleFilled",
   "CircleLargeFilled",
-  "CircleLargeOutline",
-  "CircleOutline",
+  "CircleLarge",
   "CircleSlash",
   "CircleSmallFilled",
   "CircleSmall",
+  "Circle",
   "CircuitBoard",
   "ClearAll",
   "Clippy",
@@ -73,6 +73,7 @@ exports[`Library > has exports 1`] = `
   "ColorMode",
   "Combine",
   "CommentDiscussion",
+  "CommentDraft",
   "CommentUnresolved",
   "Comment",
   "CompassActive",
@@ -194,6 +195,7 @@ exports[`Library > has exports 1`] = `
   "Inbox",
   "Indent",
   "Info",
+  "Insert",
   "Inspect",
   "IssueDraft",
   "IssueReopened",
@@ -323,8 +325,10 @@ exports[`Library > has exports 1`] = `
   "Save",
   "ScreenFull",
   "ScreenNormal",
+  "SearchFuzzy",
   "SearchStop",
   "Search",
+  "Send",
   "ServerEnvironment",
   "ServerProcess",
   "Server",
@@ -336,6 +340,7 @@ exports[`Library > has exports 1`] = `
   "Smiley",
   "SortPrecedence",
   "SourceControl",
+  "Sparkle",
   "SplitHorizontal",
   "SplitVertical",
   "Squirrel",
