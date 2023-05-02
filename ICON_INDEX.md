@@ -1,6 +1,6 @@
 # Icon Index
 
-> 421 total icons
+> 426 total icons
 
 ## Icons
 
@@ -57,11 +57,11 @@
 - ChromeRestore
 - CircleFilled
 - CircleLargeFilled
-- CircleLargeOutline
-- CircleOutline
+- CircleLarge
 - CircleSlash
 - CircleSmallFilled
 - CircleSmall
+- Circle
 - CircuitBoard
 - ClearAll
 - Clippy
@@ -75,6 +75,7 @@
 - ColorMode
 - Combine
 - CommentDiscussion
+- CommentDraft
 - CommentUnresolved
 - Comment
 - CompassActive
@@ -196,6 +197,7 @@
 - Inbox
 - Indent
 - Info
+- Insert
 - Inspect
 - IssueDraft
 - IssueReopened
@@ -325,8 +327,10 @@
 - Save
 - ScreenFull
 - ScreenNormal
+- SearchFuzzy
 - SearchStop
 - Search
+- Send
 - ServerEnvironment
 - ServerProcess
 - Server
@@ -338,6 +342,7 @@
 - Smiley
 - SortPrecedence
 - SourceControl
+- Sparkle
 - SplitHorizontal
 - SplitVertical
 - Squirrel
