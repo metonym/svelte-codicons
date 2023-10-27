@@ -17,14 +17,14 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.1.1",
+    "@sveltejs/vite-plugin-svelte": "^2.4.6",
     "@vscode/codicons": "0.0.33",
-    "gh-pages": "^5.0.0",
-    "svelte": "^3.58.0",
-    "svelte-check": "^3.2.0",
+    "gh-pages": "^6.0.0",
+    "svelte": "^4.2.2",
+    "svelte-check": "^3.5.2",
     "svelte-readme": "^3.6.3",
-    "svelvg": "^0.11.4",
-    "vitest": "^0.30.1"
+    "svelvg": "^0.12.1",
+    "vitest": "^0.34.6"
   },
   "repository": {
     "type": "git",
