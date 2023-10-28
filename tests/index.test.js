@@ -11,7 +11,7 @@ describe("Library", () => {
     expect(API.default).toBeUndefined();
 
     const exports = Object.keys(API);
-    expect(exports.length).toMatchInlineSnapshot("426");
+    expect(exports.length).toMatchInlineSnapshot("439");
     expect(exports).toMatchSnapshot();
   });
 });

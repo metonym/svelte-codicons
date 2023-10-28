@@ -1,6 +1,6 @@
 # Icon Index
 
-> 426 total icons
+> 439 total icons
 
 ## Icons
 
@@ -51,6 +51,7 @@
 - ChevronLeft
 - ChevronRight
 - ChevronUp
+- Chip
 - ChromeClose
 - ChromeMaximize
 - ChromeMinimize
@@ -71,6 +72,7 @@
 - CloudUpload
 - Cloud
 - Code
+- Coffee
 - CollapseAll
 - ColorMode
 - Combine
@@ -81,6 +83,7 @@
 - CompassActive
 - CompassDot
 - Compass
+- Copilot
 - Copy
 - CreditCard
 - Dash
@@ -162,12 +165,14 @@
 - FolderLibrary
 - FolderOpened
 - Folder
+- Game
 - Gear
 - Gift
 - GistSecret
 - Gist
 - GitCommit
 - GitCompare
+- GitFetch
 - GitMerge
 - GitPullRequestClosed
 - GitPullRequestCreate
@@ -253,11 +258,14 @@
 - Mention
 - Menu
 - Merge
+- MicFilled
+- Mic
 - Milestone
 - Mirror
 - MortarBoard
 - Move
 - MultipleWindows
+- Music
 - Mute
 - NewFile
 - NewFolder
@@ -276,6 +284,7 @@
 - Pass
 - PersonAdd
 - Person
+- Piano
 - PieChart
 - Pin
 - PinnedDirty
@@ -340,6 +349,7 @@
 - SignIn
 - SignOut
 - Smiley
+- Snake
 - SortPrecedence
 - SourceControl
 - Sparkle
@@ -392,7 +402,9 @@
 - Terminal
 - TextSize
 - ThreeBars
+- ThumbsdownFilled
 - Thumbsdown
+- ThumbsupFilled
 - Thumbsup
 - Tools
 - Trash
@@ -418,6 +430,7 @@
 - VmOutline
 - VmRunning
 - Vm
+- Vr
 - Wand
 - Warning
 - Watch
