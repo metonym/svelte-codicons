@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.12.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.12.0) - 2023-10-28
+
+- Upgrade `@vscode/codicons` to [v0.0.35](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.35) (net +13 icons)
+
 ## [0.11.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.11.0) - 2023-05-02
 
 - Upgrade `@vscode/codicons` to [v0.0.33](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.33) (net +5 icons)
