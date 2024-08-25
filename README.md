@@ -6,26 +6,22 @@
 
 This zero-dependency library uses [svelvg](https://github.com/metonym/svelvg) to convert SVG files from the [@vscode/codicons](https://www.npmjs.com/package/@vscode/codicons) into Svelte components.
 
-<!-- REPO_URL -->
-
 Try it in the [Svelte REPL](https://svelte.dev/repl/f47568d489c34e8892da08273368744e).
-
----
-
-<!-- TOC -->
 
 ## Installation
 
 ```bash
-# Yarn
-yarn add -D svelte-codicons
-
-# npm
+# NPM
 npm i -D svelte-codicons
 
 # pnpm
 pnpm i -D svelte-codicons
 
+# Bun
+bun add -D svelte-codicons
+
+# Yarn
+yarn add -D svelte-codicons
 ```
 
 ## Usage
@@ -86,8 +82,6 @@ Use the `fill` attribute to specify a custom color.
 ```svelte
 <Add fill="red" />
 ```
-
-## [Changelog](CHANGELOG.md)
 
 ## License
 
