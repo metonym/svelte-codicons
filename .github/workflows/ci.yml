@@ -1,25 +1,20 @@
-name: CI
-
 on:
   pull_request:
   push:
     branches: [master]
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
 
-      - uses: actions/cache@v2
-        id: yarn-cache
-        with:
-          path: "**/node_modules"
-          key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
+      - name: Install dependencies
+        run: bun install
 
-      - name: Build and test library
-        run: |
-          yarn
-          yarn prepack
-          yarn run check & yarn test
+      - name: Build icons
+        run: bun build:lib
+
+      - name: Run unit tests
+        run: bun test
