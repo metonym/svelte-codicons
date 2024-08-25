@@ -14,7 +14,7 @@ jobs:
         run: bun install
 
       - name: Build icons
-        run: bun build:lib
+        run: bun run build:lib
 
       - name: Run unit tests
-        run: bun test
+        run: bun run test
