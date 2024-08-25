@@ -1,4 +1,3 @@
-import { describe, it, expect } from "vitest";
 import * as API from "../lib";
 import pkg from "../package.json";
 
@@ -11,7 +10,7 @@ describe("Library", () => {
     expect(API.default).toBeUndefined();
 
     const exports = Object.keys(API);
-    expect(exports.length).toMatchInlineSnapshot("439");
+    expect(exports.length).toEqual(439);
     expect(exports).toMatchSnapshot();
   });
 });
