@@ -21,6 +21,7 @@
     "dev": "vite dev",
     "build": "vite build",
     "build:lib": "svelvg glob=@vscode/codicons/src/icons iconIndex",
+    "preview": "vite preview",
     "test": "bun test"
   },
   "devDependencies": {
