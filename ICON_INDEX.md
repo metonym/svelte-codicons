@@ -1,6 +1,6 @@
 # Icon Index
 
-> 461 total icons
+> 492 total icons
 
 ## Icons
 
@@ -22,6 +22,7 @@
 - ArrowSmallUp
 - ArrowSwap
 - ArrowUp
+- Attach
 - Azure
 - AzureDevops
 - Beaker
@@ -44,6 +45,7 @@
 - CallIncoming
 - CallOutgoing
 - CaseSensitive
+- ChatSparkle
 - Check
 - CheckAll
 - Checklist
@@ -73,6 +75,7 @@
 - CloudUpload
 - Code
 - CodeOss
+- CodeReview
 - Coffee
 - CollapseAll
 - ColorMode
@@ -85,6 +88,16 @@
 - CompassActive
 - CompassDot
 - Copilot
+- CopilotBlocked
+- CopilotError
+- CopilotInProgress
+- CopilotLarge
+- CopilotNotConnected
+- CopilotSnooze
+- CopilotSuccess
+- CopilotUnavailable
+- CopilotWarning
+- CopilotWarningLarge
 - Copy
 - Coverage
 - CreditCard
@@ -138,6 +151,8 @@
 - Discard
 - Edit
 - EditorLayout
+- EditSession
+- EditSparkle
 - Ellipsis
 - EmptyWindow
 - Error
@@ -146,6 +161,7 @@
 - ExpandAll
 - Export
 - Extensions
+- ExtensionsLarge
 - Eye
 - EyeClosed
 - Feedback
@@ -161,6 +177,7 @@
 - FileZip
 - Filter
 - FilterFilled
+- Flag
 - Flame
 - Fold
 - FoldDown
@@ -186,6 +203,7 @@
 - GitPullRequest
 - GitPullRequestClosed
 - GitPullRequestCreate
+- GitPullRequestDone
 - GitPullRequestDraft
 - GitPullRequestGoToChanges
 - GitPullRequestNewChanges
@@ -193,6 +211,7 @@
 - GitStashApply
 - GitStashPop
 - Globe
+- GoToEditingSession
 - GoToFile
 - GoToSearch
 - Grabber
@@ -221,6 +240,9 @@
 - Json
 - KebabVertical
 - Key
+- KeyboardTab
+- KeyboardTabAbove
+- KeyboardTabBelow
 - Law
 - Layers
 - LayersActive
@@ -232,18 +254,22 @@
 - LayoutMenubar
 - LayoutPanel
 - LayoutPanelCenter
+- LayoutPanelDock
 - LayoutPanelJustify
 - LayoutPanelLeft
 - LayoutPanelOff
 - LayoutPanelRight
 - LayoutSidebarLeft
+- LayoutSidebarLeftDock
 - LayoutSidebarLeftOff
 - LayoutSidebarRight
+- LayoutSidebarRightDock
 - LayoutSidebarRightOff
 - LayoutStatusbar
 - Library
 - Lightbulb
 - LightbulbAutofix
+- LightbulbEmpty
 - LightbulbSparkle
 - Link
 - LinkExternal
@@ -266,6 +292,7 @@
 - MapVertical
 - MapVerticalFilled
 - Markdown
+- Mcp
 - Megaphone
 - Mention
 - Menu
@@ -310,6 +337,7 @@
 - PrimitiveSquare
 - Project
 - Pulse
+- Python
 - Question
 - Quote
 - RadioTower
@@ -332,6 +360,7 @@
 - RepoFetch
 - RepoForcePush
 - RepoForked
+- RepoPinned
 - RepoPull
 - RepoPush
 - Report
@@ -355,6 +384,7 @@
 - ScreenNormal
 - Search
 - SearchFuzzy
+- SearchSparkle
 - SearchStop
 - Send
 - Server
@@ -394,6 +424,7 @@
 - SymbolKey
 - SymbolKeyword
 - SymbolMethod
+- SymbolMethodArrow
 - SymbolMisc
 - SymbolNamespace
 - SymbolNumeric
