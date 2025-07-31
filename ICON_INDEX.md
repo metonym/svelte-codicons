@@ -1,6 +1,6 @@
 # Icon Index
 
-> 492 total icons
+> 493 total icons
 
 ## Icons
 
@@ -387,6 +387,7 @@
 - SearchSparkle
 - SearchStop
 - Send
+- SendToRemoteAgent
 - Server
 - ServerEnvironment
 - ServerProcess
