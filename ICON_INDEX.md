@@ -1,6 +1,6 @@
 # Icon Index
 
-> 493 total icons
+> 496 total icons
 
 ## Icons
 
@@ -46,6 +46,8 @@
 - CallOutgoing
 - CaseSensitive
 - ChatSparkle
+- ChatSparkleError
+- ChatSparkleWarning
 - Check
 - CheckAll
 - Checklist
@@ -82,6 +84,7 @@
 - Combine
 - Comment
 - CommentDiscussion
+- CommentDiscussionSparkle
 - CommentDraft
 - CommentUnresolved
 - Compass
