@@ -1,6 +1,6 @@
 # Icon Index
 
-> 496 total icons
+> 499 total icons
 
 ## Icons
 
@@ -80,6 +80,7 @@
 - CodeReview
 - Coffee
 - CollapseAll
+- Collection
 - ColorMode
 - Combine
 - Comment
@@ -309,6 +310,7 @@
 - MultipleWindows
 - Music
 - Mute
+- NewCollection
 - NewFile
 - NewFolder
 - Newline
@@ -456,6 +458,7 @@
 - TerminalTmux
 - TerminalUbuntu
 - TextSize
+- Thinking
 - ThreeBars
 - Thumbsdown
 - ThumbsdownFilled
