@@ -11,28 +11,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.16.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.16.0) - 2025-09-05
 
-- Upgrade `@vscode/codicons` to [v0.0.40](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.40) (net +3 icons)
+- Upgrade `@vscode/codicons` to [v0.0.40](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.40) (net +3 icons)
 
 ## [0.15.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.15.0) - 2025-07-31
 
-- Upgrade `@vscode/codicons` to [v0.0.39](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.39) (net +1 icon)
+- Upgrade `@vscode/codicons` to [v0.0.39](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.39) (net +1 icon)
 
 ## [0.14.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.14.0) - 2025-07-17
 
-- Upgrade `@vscode/codicons` to [v0.0.38](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.38) (net +31 icons)
+- Upgrade `@vscode/codicons` to [v0.0.38](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.38) (net +31 icons)
 
 ## [0.13.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.13.0) - 2024-08-25
 
-- Upgrade `@vscode/codicons` to [v0.0.36](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.36) (net +22 icons)
+- Upgrade `@vscode/codicons` to [v0.0.36](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.36) (net +22 icons)
 - Add `exports` map to `package.json`
 
 ## [0.12.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.12.0) - 2023-10-28
 
-- Upgrade `@vscode/codicons` to [v0.0.35](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.35) (net +13 icons)
+- Upgrade `@vscode/codicons` to [v0.0.35](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.35) (net +13 icons)
 
 ## [0.11.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.11.0) - 2023-05-02
 
-- Upgrade `@vscode/codicons` to [v0.0.33](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.33) (net +5 icons)
+- Upgrade `@vscode/codicons` to [v0.0.33](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.33) (net +5 icons)
 
 ## [0.10.1](https://github.com/metonym/svelte-codicons/releases/tag/v0.10.1) - 2022-08-03
 
@@ -40,7 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.10.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.10.0) - 2022-08-03
 
-- Upgrade `@vscode/codicons` to [v0.0.32](https://github.com/microsoft/vscode-codicons/releases/tag/0.0.32) (net +9 icons)
+- Upgrade `@vscode/codicons` to [v0.0.32](https://github.com/microsoft/vscode-codicons/releases/tag/v0.0.32) (net +9 icons)
 
 ## [0.9.0](https://github.com/metonym/svelte-codicons/releases/tag/v0.9.0) - 2022-06-13
 
