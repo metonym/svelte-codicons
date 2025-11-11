@@ -1,12 +1,13 @@
 # Icon Index
 
-> 499 total icons
+> 524 total icons
 
 ## Icons
 
 - Account
 - ActivateBreakpoints
 - Add
+- Agent
 - Archive
 - ArrowBoth
 - ArrowCircleDown
@@ -41,6 +42,7 @@
 - Broadcast
 - Browser
 - Bug
+- Build
 - Calendar
 - CallIncoming
 - CallOutgoing
@@ -85,6 +87,7 @@
 - Combine
 - Comment
 - CommentDiscussion
+- CommentDiscussionQuote
 - CommentDiscussionSparkle
 - CommentDraft
 - CommentUnresolved
@@ -105,6 +108,7 @@
 - Copy
 - Coverage
 - CreditCard
+- Cursor
 - Dash
 - Dashboard
 - Database
@@ -121,6 +125,7 @@
 - DebugBreakpointLog
 - DebugBreakpointLogUnverified
 - DebugBreakpointUnsupported
+- DebugConnected
 - DebugConsole
 - DebugContinue
 - DebugContinueSmall
@@ -154,11 +159,13 @@
 - DiffSingle
 - Discard
 - Edit
+- EditCode
 - EditorLayout
 - EditSession
 - EditSparkle
 - Ellipsis
 - EmptyWindow
+- Eraser
 - Error
 - ErrorSmall
 - Exclude
@@ -178,6 +185,7 @@
 - FileSubmodule
 - FileSymlinkDirectory
 - FileSymlinkFile
+- FileText
 - FileZip
 - Filter
 - FilterFilled
@@ -195,6 +203,10 @@
 - Gift
 - Gist
 - GistSecret
+- GitBranch
+- GitBranchChanges
+- GitBranchConflicts
+- GitBranchStagedChanges
 - GitCommit
 - GitCompare
 - GitFetch
@@ -203,6 +215,7 @@
 - GithubAlt
 - GithubInverted
 - GithubProject
+- GitLens
 - GitMerge
 - GitPullRequest
 - GitPullRequestClosed
@@ -233,6 +246,7 @@
 - Hubot
 - Inbox
 - Indent
+- IndexZero
 - Info
 - Insert
 - Inspect
@@ -301,6 +315,7 @@
 - Mention
 - Menu
 - Merge
+- MergeInto
 - Mic
 - MicFilled
 - Milestone
@@ -319,6 +334,7 @@
 - Notebook
 - NotebookTemplate
 - Octoface
+- OpenInProduct
 - OpenPreview
 - Organization
 - Output
@@ -345,6 +361,7 @@
 - Python
 - Question
 - Quote
+- Quotes
 - RadioTower
 - Reactions
 - Record
@@ -357,6 +374,7 @@
 - Remote
 - RemoteExplorer
 - Remove
+- Rename
 - Replace
 - ReplaceAll
 - Reply
@@ -369,6 +387,7 @@
 - RepoPull
 - RepoPush
 - Report
+- RepoSelected
 - RequestChanges
 - Robot
 - Rocket
@@ -382,6 +401,7 @@
 - RunBelow
 - RunCoverage
 - RunErrors
+- RunWithDeps
 - Save
 - SaveAll
 - SaveAs
@@ -389,6 +409,7 @@
 - ScreenNormal
 - Search
 - SearchFuzzy
+- SearchLarge
 - SearchSparkle
 - SearchStop
 - Send
@@ -402,6 +423,7 @@
 - Shield
 - SignIn
 - SignOut
+- Skip
 - Smiley
 - Snake
 - SortPrecedence
@@ -415,6 +437,7 @@
 - StarFull
 - StarHalf
 - StopCircle
+- Strikethrough
 - SurroundWith
 - SymbolArray
 - SymbolBoolean
@@ -453,6 +476,7 @@
 - TerminalBash
 - TerminalCmd
 - TerminalDebian
+- TerminalGitBash
 - TerminalLinux
 - TerminalPowershell
 - TerminalTmux
@@ -487,6 +511,7 @@
 - VmActive
 - VmConnect
 - VmOutline
+- VmPending
 - VmRunning
 - Vr
 - Vscode
