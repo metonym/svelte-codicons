@@ -6,7 +6,7 @@
       "name": "svelte-codicons",
       "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "latest",
-        "@vscode/codicons": "0.0.42",
+        "@vscode/codicons": "0.0.43",
         "svelte": "5.43.6",
         "svelvg": "latest",
         "vite": "7.2.2",
@@ -124,7 +124,7 @@
 
     "@types/estree": ["@types/estree@1.0.8", "", {}, "sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w=="],
 
-    "@vscode/codicons": ["@vscode/codicons@0.0.42", "", {}, "sha512-PlWPUA32rdiJE6250ltFGMzM3GyC1L9OaryDGOpxiMU0H9lBtEJrSFxpRvefdgJuQRcyUenGFTYzFuFbR9qzjg=="],
+    "@vscode/codicons": ["@vscode/codicons@0.0.43", "", {}, "sha512-8sf8WOBoZkyUi8ogCm5ycHJJGhwOEG3E9b64+JIx+m6bCExdkc30VwCwr94cXUU1opmRD0CTCWLcN46I8WLJIg=="],
 
     "acorn": ["acorn@8.14.1", "", { "bin": { "acorn": "bin/acorn" } }, "sha512-OvQ/2pUDKmgfCg++xsTX1wGxfTaszcHVcTctW4UJB4hibJx2HXxxO5UmVgyjMa+ZDsiaf5wWLXYpRWMmBI0QHg=="],
 

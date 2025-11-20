@@ -1,6 +1,6 @@
 # Icon Index
 
-> 524 total icons
+> 527 total icons
 
 ## Icons
 
@@ -158,6 +158,7 @@
 - DiffRenamed
 - DiffSingle
 - Discard
+- Download
 - Edit
 - EditCode
 - EditorLayout
@@ -198,6 +199,7 @@
 - FolderLibrary
 - FolderOpened
 - FoldUp
+- Forward
 - Game
 - Gear
 - Gift
@@ -522,6 +524,7 @@
 - Whitespace
 - WholeWord
 - Window
+- WindowActive
 - WordWrap
 - WorkspaceTrusted
 - WorkspaceUnknown
