@@ -1,6 +1,6 @@
 # Icon Index
 
-> 527 total icons
+> 532 total icons
 
 ## Icons
 
@@ -72,10 +72,12 @@
 - CircuitBoard
 - ClearAll
 - Clippy
+- Clockface
 - Close
 - CloseAll
 - Cloud
 - CloudDownload
+- CloudSmall
 - CloudUpload
 - Code
 - CodeOss
@@ -83,6 +85,7 @@
 - Coffee
 - CollapseAll
 - Collection
+- CollectionSmall
 - ColorMode
 - Combine
 - Comment
@@ -217,7 +220,6 @@
 - GithubAlt
 - GithubInverted
 - GithubProject
-- GitLens
 - GitMerge
 - GitPullRequest
 - GitPullRequestClosed
@@ -419,6 +421,7 @@
 - Server
 - ServerEnvironment
 - ServerProcess
+- SessionInProgress
 - Settings
 - SettingsGear
 - Share
@@ -500,6 +503,7 @@
 - TypeHierarchy
 - TypeHierarchySub
 - TypeHierarchySuper
+- Unarchive
 - Unfold
 - UngroupByRefType
 - Unlock
@@ -515,6 +519,7 @@
 - VmOutline
 - VmPending
 - VmRunning
+- VmSmall
 - Vr
 - Vscode
 - VscodeInsiders
