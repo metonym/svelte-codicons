@@ -1,12 +1,13 @@
 # Icon Index
 
-> 532 total icons
+> 542 total icons
 
 ## Icons
 
 - Account
 - ActivateBreakpoints
 - Add
+- AddSmall
 - Agent
 - Archive
 - ArrowBoth
@@ -23,6 +24,7 @@
 - ArrowSmallUp
 - ArrowSwap
 - ArrowUp
+- Ask
 - Attach
 - Azure
 - AzureDevops
@@ -70,6 +72,7 @@
 - CircleSmall
 - CircleSmallFilled
 - CircuitBoard
+- Claude
 - ClearAll
 - Clippy
 - Clockface
@@ -333,12 +336,15 @@
 - NewFile
 - NewFolder
 - Newline
+- NewSession
 - NoNewline
 - Note
 - Notebook
 - NotebookTemplate
 - Octoface
+- Openai
 - OpenInProduct
+- OpenInWindow
 - OpenPreview
 - Organization
 - Output
@@ -378,6 +384,7 @@
 - Remote
 - RemoteExplorer
 - Remove
+- RemoveSmall
 - Rename
 - Replace
 - ReplaceAll
@@ -409,6 +416,7 @@
 - Save
 - SaveAll
 - SaveAs
+- ScreenCut
 - ScreenFull
 - ScreenNormal
 - Search
@@ -534,5 +542,7 @@
 - WorkspaceTrusted
 - WorkspaceUnknown
 - WorkspaceUntrusted
+- Worktree
+- WorktreeSmall
 - ZoomIn
 - ZoomOut
